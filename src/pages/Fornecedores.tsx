@@ -23,7 +23,37 @@ const Fornecedores = () => {
       name: "Fornecedor de Pigmentos Metálicos",
       category: "Pigmentos",
       link: "https://shopee.com.br/product/422089920/21598876075?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMmRuMHVyWFkydW9HbzRoQXAxSTJTYzA2dXd0NUdPNXlwR2lPNWU0czdWekpCdXZMK0pjbFA1dyt5Tm5lUUlVN0ljMFAxUjc0UnV1dkVlekg5SXp5ZmY3a1JwYVRFVTErQU02V2NtalFnQmtsRHpiYXFiV2F3KzUralRkajJJYXU0PQ&uls_trackid=546j5n14005o&utm_campaign=id_BwaJcRjOTg&utm_content=----&utm_medium=affiliates&utm_source=an_18187360013&utm_term=dykx6see8u43",
-      description: "Pigmentos metálicos para dar efeito especial às suas criações"
+      description: "Pigmentos metálicos para dar efeito especial às suas criações",
+    },
+    {
+      name: "Alça de Bolsa",
+      category: "Acessórios",
+      link: "https://shopee.com.br/Kit-6-al%C3%A7as-de-corrente-2-grafite-2-dourado-e-2-prata-kit-i.931712774.20397668781?extraParams=%7B%22display_model_id%22%3A199594355702%2C%22model_selection_logic%22%3A3%7D&sp_atk=14c22505-b46f-4012-89ef-67912b31e7cd&xptdk=14c22505-b46f-4012-89ef-67912b31e7cd",
+      description: "Kit de alças para bolsa — correntes em grafite, dourado e prata"
+    },
+    {
+      name: "Molde de Bolsa",
+      category: "Moldes",
+      link: "https://shopee.com.br/product/253101930/45800855391?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMk8wTm9EVFRqZEFpY0EyNlRqL1Rpd0xmQjkzVTR0bkRsS2RSL0tjUEp4eWd2bVZqQkNvVTlEa2dKeTJhOXhlWTlqU0F2L2lSMUF6bWlJNkNBY0htUUM2VXpmUmd1QitNL2ViNUJFVmZxTEJ1VW55RGJvdStnV253SThEVmtjaXl3PQ&mmp_pid=an_18372430004&share_channel_code=1&uls_trackid=54b15hbr02b1&utm_campaign=id_UHh1wkEB9r&utm_content=----&utm_medium=affiliates&utm_source=an_18372430004&utm_term=e2ms7y7kdpnc",
+      description: "Molde para confecção de bolsas"
+    },
+    {
+      name: "Dobradiça para Bolsa",
+      category: "Ferragens",
+      link: "https://shopee.com.br/Dobradi%C3%A7a-Mini-3-4-Decora%C3%A7%C3%A3o-Artesanato-Caixa-MDF-25-Pe%C3%A7as-Parafusos-i.644779610.18542987440?extraParams=%7B%22display_model_id%22%3A189593017058%2C%22model_selection_logic%22%3A3%7D&sp_atk=a7645b3b-3f57-4365-b8a3-943304d1e879&xptdk=a7645b3b-3f57-4365-b8a3-943304d1e879",
+      description: "Dobradiças mini para aplicações em bolsas e artesanato"
+    },
+    {
+      name: "Fechadura para Bolsa",
+      category: "Fechaduras",
+      link: "https://shopee.com.br/Fecho-Met%C3%A1lico-Fechadura-De-Metal-L%C3%ADngua-De-Pato-Saco-Ferragens-Pe%C3%A7as-Fechaduras-De-Polegar-Para-Bolsas-De-M%C3%A3o-Ombro-Fazendo-Couro-5Pcs-Artesanato-De-Bricolagem-i.348901909.23191409721?extraParams=%7B%22display_model_id%22%3A169692334041%2C%22model_selection_logic%22%3A3%7D&sp_atk=823083ba-f148-4648-96c3-57327988cca7&xptdk=823083ba-f148-4648-96c3-57327988cca7",
+      description: "Fechos metálicos tipo língua de pato para bolsas"
+    },
+    {
+      name: "Porta Alça",
+      category: "Acessórios",
+      link: "https://shopee.com.br/Kit-10-Unidades-Porta-Al%C3%A7a-Bolsa-Corrente-Chaveiro-Suporte-Garra-i.320460124.18898515094?extraParams=%7B%22display_model_id%22%3A119856002499%2C%22model_selection_logic%22%3A3%7D&sp_atk=e907fd03-3d8a-4448-a2ee-3452c98f9440&xptdk=e907fd03-3d8a-4448-a2ee-3452c98f9440",
+      description: "Porta alça / suporte para fixação de alças e correntes"
     }
   ];
   
