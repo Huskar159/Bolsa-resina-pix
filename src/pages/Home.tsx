@@ -4,6 +4,7 @@ import { WelcomeBanner } from "@/components/WelcomeBanner";
 import { MenuCard } from "@/components/MenuCard";
 import { ActivityCard } from "@/components/ActivityCard";
 import { CertificateCard } from "@/components/CertificateCard";
+import { PixSection } from "@/components/PixSection";
 import { Progress } from "@/components/ui/progress";
 import { Lightbulb, ShoppingBag, Trophy, Diamond, Rocket } from "lucide-react";
 import { useState, useEffect } from "react";
@@ -88,6 +89,9 @@ const Home = () => {
 
       {/* Botão do grupo de WhatsApp removido conforme solicitado */}
       
+      {/* PIX Section */}
+      <PixSection />
+
       <BottomNav />
     </div>
   );
