@@ -21,14 +21,14 @@ export const PixSection = () => {
             🎁 POR FAVOR, FAÇA O PIX E GANHE UM PRESENTE!
           </h3>
           <p className="text-sm text-muted-foreground">
-            Faça o PIX simbólico de <span className="font-semibold">R$19,90 / R$24,90</span>
+            Faça o PIX simbólico de <span className="font-semibold">R$9,90</span>
           </p>
         </div>
 
         {/* PIX Amount Card */}
         <div className="bg-white dark:bg-slate-900 rounded-lg p-4 mb-4 border border-purple-200 dark:border-purple-800">
           <div className="text-3xl font-bold text-center text-purple-600 dark:text-purple-400">
-            R$19,90
+            R$9,90
           </div>
         </div>
 
